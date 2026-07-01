@@ -8,7 +8,8 @@ Project consists of using a virtual homelab environment to perform Group Policy 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 11</b>
+- <b>JobSkillShare Virtual Sandbox </b>
 
 <h2>Program walk-through:</h2>
 
