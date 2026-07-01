@@ -41,18 +41,30 @@ Right Click New GPO to Edit:  <br/>
 <img src="https://i.imgur.com/5Iggplg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Prohibit Control Panel access on GPO Management Editor:  <br/>
+<img src="https://i.imgur.com/D5FqLjL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enable New Policy:  <br/>
+<img src="https://i.imgur.com/o0tqyBg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Log onto User Account:  <br/>
+<img src="https://i.imgur.com/BG32SDs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Access Command Line to force the Group Policy update:  <br/>
+<img src="https://i.imgur.com/VHq6ezD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Observe access to Control Panel is denied:  <br/>
+<img src="https://i.imgur.com/gskYbmW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Right Click New GPO to Edit:  <br/>
+<img src="https://i.imgur.com/5Iggplg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Prohibit Control Panel access on GPO Management Editor:  <br/>
+<img src="https://i.imgur.com/D5FqLjL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 </p>
