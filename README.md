@@ -55,6 +55,8 @@ Log onto User Account:  <br/>
 <br />
 Access Command Line to force the Group Policy update:  <br/>
 <img src="https://i.imgur.com/VHq6ezD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Observe access to Control Panel is denied:  <br/>
 <img src="https://i.imgur.com/gskYbmW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
