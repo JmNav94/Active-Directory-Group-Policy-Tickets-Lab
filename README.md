@@ -61,12 +61,4 @@ Observe access to Control Panel is denied:  <br/>
 <img src="https://i.imgur.com/gskYbmW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Right Click New GPO to Edit:  <br/>
-<img src="https://i.imgur.com/5Iggplg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Prohibit Control Panel access on GPO Management Editor:  <br/>
-<img src="https://i.imgur.com/D5FqLjL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 </p>
